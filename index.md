@@ -1,4 +1,4 @@
-# Power BI Dashboard - Sporton
+# Power BI Report - Sporton
 
 I built an end-to-end BI project for a sports and bikes company called Sporton!
 I made sure to include beautiful and easy-to-understand visualizations, clear insights, clickable buttons, and responsiveness. 
